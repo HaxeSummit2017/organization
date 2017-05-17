@@ -4,7 +4,7 @@ This repo acts as the main organization platform for the upcoming Haxe Summit. I
 
 ## Call For Speakers
 
-We are inviting everyone in the community to propose sessions [through the issue tracker](https://github.com/HaxeSummit2017/organization/issues/new):
+We are inviting everyone in the community to propose sessions [through the issue tracker](https://github.com/HaxeSummit2017/organization/issues/new).
 
 Each of the four conference days is split into a morning for talks that address all participants, and the afternoon for two parallel tracks that can explore more narrow subjects in depth, through workshops, tutorials and discussion panels. The tracks are designated to be about game and web development respectively, but this is more of a rough guideline than a strict imperative. If you wish to dive into a subject that cuts across both or intersects with none of them, that's perfectly fine.
 
